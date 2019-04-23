@@ -1,0 +1,25 @@
+{
+  "name": "robotvideomaker",
+  "version": "1.0.0",
+  "description": "Robot that make videos to youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freitasdfb/robotvideomaker.git"
+  },
+  "author": "Victor Barbosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freitasdfb/robotvideomaker/issues"
+  },
+  "homepage": "https://github.com/freitasdfb/robotvideomaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
